@@ -1,0 +1,24 @@
+{
+    "name": "daniel/addressreturnbycep-main",
+    "description": "retorna um  endereço ao fornecer um cep (online)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+
+        "psr-4": {
+            "Daniel\\Addressreturnbycep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danielvictorsr",
+            "email": "danielvictor.br@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
