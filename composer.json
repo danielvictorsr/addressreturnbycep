@@ -1,5 +1,5 @@
 {
-    "name": "daniel/addressreturnbycep-main",
+    "name": "danielvictorsr/addressreturnbycep-main",
     "description": "retorna um  endereço ao fornecer um cep (online)",
     "type": "library",
     "license": "MIT",
